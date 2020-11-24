@@ -3,7 +3,7 @@
     "description": "The CLI for the Cat Framework.",
     "keywords": ["cat-cli", "console", "cli"],
     "homepage": "https://github.com/vasco-martins/cat-cli",
-    "type": "project",
+
     "license": "MIT",
     "support": {
         "issues": "https://github.com/vasco-martins/cat-cli/issues",
